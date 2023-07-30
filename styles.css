@@ -157,6 +157,10 @@ body {
 
 .about,
 .contact {
+    padding: 6rem 7% 30rem;
+}
+
+.contact {
     padding: 6rem 7% 1.4rem;
 }
 
@@ -207,7 +211,7 @@ body {
 /* Menu section */
 
 .menu {
-    padding: 6rem 7% 30vh;
+    padding: 6rem 7% 50rem;
 }
 
 .menu h2 {
